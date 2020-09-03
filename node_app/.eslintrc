@@ -1,0 +1,10 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "rules": {
+    "import-sort-by-depth/import-sort-by-depth": "error"
+  },
+  "plugins": ["import-sort-by-depth"]
+}
